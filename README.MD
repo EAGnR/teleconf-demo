@@ -5,18 +5,11 @@ This sample application shows the use the OpenTok signaling API to implement tex
 
 ## Demo
 
-You can see a demo of this sample running at [opentok.github.io/opentok-web-samples/Signaling/](https://opentok.github.io/opentok-web-samples/Signaling/)
+You can see a demo of this sample running at [eagnr.github.io/teleconf-demo/](https://eagnr.github.io/teleconf-demo/)
 
 > **Note** The demo is setup so that a new room is generated based on your public IP address. So will only work if you are connecting from 2 browsers on the same network.
 
 ## Running the App
-
-*Important:* Read the following sections of the main README file for the repository to set up
-and test the application:
-
-* [Setting up the test web service](../README.md#setting-up-the-test-web-service)
-* [Configuring the application](../README.md#configuring-the-application)
-* [Testing the application](../README.md#testing-the-application)
 
 For this application, once the two clients have connected to the OpenTok session, enter text
 in the text field in the bottom-righthand corner of one of the web client pages and press
